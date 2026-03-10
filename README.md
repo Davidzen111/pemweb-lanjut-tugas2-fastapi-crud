@@ -247,34 +247,9 @@ Keuntungan menggunakan Pydantic:
 
 # 📸 Screenshot Swagger UI
 
-Tambahkan screenshot Swagger UI setelah API dijalankan.
+Berikut tampilan dokumentasi API menggunakan Swagger UI:
 
-Langkahnya:
-
-1. Jalankan server FastAPI
-2. Buka:
-
-```
-http://127.0.0.1:8000/docs
-```
-
-3. Screenshot halaman tersebut
-4. Simpan gambar di folder:
-
-```
-docs/swagger.png
-```
-
-Kemudian tampilkan di README dengan kode berikut:
-
-```
-![Swagger UI](docs/swagger.png)
-```
-
-Contoh hasil:
-
-![Swagger UI](docs/swagger.png)
-
+![Swagger UI](swagger.png)
 ---
 
 # 🔗 Link Repository GitHub
