@@ -249,13 +249,6 @@ Keuntungan menggunakan Pydantic:
 Berikut tampilan dokumentasi API menggunakan Swagger UI:
 
 ![Swagger UI](swagger.png)
----
-
-# 🔗 Link Repository GitHub
-
-Repository project dapat diakses melalui:
-
-https://github.com/Davidzen111/pemweb-lanjut-tugas2-fastapi-crud
 
 ---
 
