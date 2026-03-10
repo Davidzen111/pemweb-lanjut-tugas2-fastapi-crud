@@ -45,19 +45,18 @@ Project ini dibuat untuk memenuhi tugas **Hands-on: CRUD Dasar** pada mata kulia
 # 📂 Struktur Project
 
 ```
-fastapi-crud/
+pemweb-lanjut-tugas2-fastapi-crud
 │
-├── main.py          # File utama menjalankan FastAPI
-├── models.py        # Model database menggunakan SQLAlchemy
-├── schemas.py       # Schema validasi menggunakan Pydantic
-├── database.py      # Konfigurasi koneksi database SQLite
-├── crud.py          # Operasi database (query)
-├── items.db         # File database SQLite
-│
-├── docs
-│   └── swagger.png  # Screenshot Swagger UI
-│
-└── README.md
+├── __pycache__/
+├── README.md
+├── crud.py
+├── database.py
+├── items.db
+├── main.py
+├── models.py
+├── requirements.txt
+├── schemas.py
+└── swagger.png #hanya untuk dokumentasi screenshoot
 ```
 
 ---
